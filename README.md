@@ -16,6 +16,7 @@
 * [Status do Projeto](#status-do-projeto)
 * [A Sequência Fibonacci](#a-sequência-fibonacci)
 * [Forma de contagem](#forma-de-contagem)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Link de vídeo explicativo](#link-de-vídeo-explicativo)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
@@ -48,6 +49,21 @@ Também aparece, por exemplo, em configurações biológicas, galhos de árvores
 dois anteriores:
 
 ![contagem](https://user-images.githubusercontent.com/129625591/229652427-790f7379-9e6b-4bd8-ac15-50e6ee4d61eb.png)
+
+# Funcionalidades e Demonstração da Aplicação
+
+Para executar o programa incie primeiro o interpretador com o comando py ou puthon, no widows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vinda e em seguida irá solicitar que o usuários insira o numero de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
+
+"Insira um número para gerar a sequência de Fibonnaci:"
+
+O numero minimo aceito pelo script é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira numero menor uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
+
+A aplicação só aceita numeros inteiros, caso uma string seja inserida o programa exibirá uma mensagem de erro e retornará ao ponto inicial.
+
+Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha, o ultimo número indica a casa solicitada pelo usuário, mas o mesmo pode ver toda a contagem até lá. 
+
+AVISO 
+-Para fins de segurança e preservação da capacidade de processamento de computadores convencionais limitamos a entrada de contagem em 5000 mil caracteres
 
 # Tecnologias utilizadas
 
