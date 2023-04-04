@@ -52,7 +52,21 @@ dois anteriores:
 
 # Funcionalidades e Demonstração da Aplicação
 
-Para executar o programa incie primeiro o interpretador com o comando py ou python, no windows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
+Para executar o programa incie primeiro o interpretador com o comando py ou python, no windows powershell ou no terminal de computador do seu sistema operacional.
+
+* Clone o repositório no diretório desejado
+
+```
+$ git clone https://github.com/44SEC/contador-sequencial-fibonacci.git
+```
+
+* Execute o script com o seguinte comando
+
+```
+$ python3 fibonacci.py
+```
+
+O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
 
 "Insira um número para gerar a sequência de Fibonnaci:"
 
