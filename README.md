@@ -52,18 +52,18 @@ dois anteriores:
 
 # Funcionalidades e Demonstração da Aplicação
 
-Para executar o programa incie primeiro o interpretador com o comando py ou python, no widows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vinda e em seguida irá solicitar que o usuários insira o numero de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
+Para executar o programa incie primeiro o interpretador com o comando py ou python, no windows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
 
 "Insira um número para gerar a sequência de Fibonnaci:"
 
-O numero minimo aceito pelo script é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira numero menor uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
+O número minimo aceito pelo script é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira um número menor, uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
 
-A aplicação só aceita numeros inteiros, caso uma string seja inserida o programa exibirá uma mensagem de erro e retornará ao ponto inicial.
+A aplicação só aceita números inteiros, caso uma string seja inserida o programa exibirá uma mensagem de erro e retornará ao ponto inicial.
 
 Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha, o ultimo número indica a casa solicitada pelo usuário, mas o mesmo pode ver toda a contagem até lá. 
 
 AVISO 
--Para fins de segurança e preservação da capacidade de processamento de computadores convencionais limitamos a entrada de contagem em 5000 mil caracteres
+-Para fins de segurança e preservação da capacidade de processamento de computadores convencionais limitamos a entrada de contagem em 5000 mil caracteres. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
 
 # Tecnologias utilizadas
 
@@ -73,15 +73,15 @@ Para realizar os cálculos e entregar ao usuário a contagem sequêncial, o grup
 
 # Pessoas Desenvolvedoras do Projeto
 
-Felipe de Resende Madeira RM99228
+Felipe de Resende Madeira 
 
-João Victor Santos Alves RM99634
+João Victor Santos Alves 
 
-Rakel de Macedo Oliveira RM99435
+Rakel de Macedo Oliveira 
 
-Pedro Henrique Lima Vieira RM99432
+Pedro Henrique Lima Vieira 
 
-Suellen Guedes Rufino RM97687
+Suellen Guedes Rufino 
 
 # Licença
 
