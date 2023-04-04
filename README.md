@@ -52,7 +52,7 @@ dois anteriores:
 
 # Funcionalidades e Demonstração da Aplicação
 
-Para executar o programa incie primeiro o interpretador com o comando py ou puthon, no widows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vinda e em seguida irá solicitar que o usuários insira o numero de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
+Para executar o programa incie primeiro o interpretador com o comando py ou python, no widows powershell ou no terminal de computador do seu sistema operacional. O código vai exibir uma menssegem de boas vinda e em seguida irá solicitar que o usuários insira o numero de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
 
 "Insira um número para gerar a sequência de Fibonnaci:"
 
