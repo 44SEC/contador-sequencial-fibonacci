@@ -28,13 +28,13 @@ O seguinte projeto tem como objetivo realizar a contagem de acordo com a sequenc
 
 # Status do Projeto
 
-O projeto foi desenvolvido diante de proposta de trabalho do professor Fábio Cabrini, como primeiro checkoint da disciplina Coding for Security da turma 1TDCG da Faculdade de Adminsitração e Informatica Paulista. Aguardando aprovação do docente responsável.
+O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Cabrini, como primeiro checkoint da disciplina Coding For Security da turma 1TDCG da Faculdade de Adminsitração e Informatica Paulista. Aguardando aprovação do docente responsável.
 
 # A Sequência Fibonacci
 
-A sequência de Fibonacci, ou sucessão de Fibonacci, é uma sequência matemática composta por números inteiros. Normalmente, começa por 0 e 1 e cada termo subsequente é formado pela soma dos dois anteriores.
+A sequência de Fibonacci, ou sucessão de Fibonacci, é uma sequência matemática composta por números inteiros. Normalmente, começando por 0 e 1 e cada termo subsequente é formado pela soma dos dois anteriores.
 
-Essa sequência é uma sucessão infinita de números que seguem o mesmo padrão. A palavra Fibonacci é usada porque o matemático italiano, Leonardo de Pisa, foi quem concebeu uma fórmula para essa sequência. Mas além de saber o que é Fibonacci, é importante saber que essa sequência é aplicada em análise de mercados financeiros, na ciência da computação e em teoria dos jogos. 
+Essa sequência é uma sucessão infinita de números que seguem o mesmo padrão. A palavra Fibonacci é usada porque o matemático italiano, Leonardo de Pisa, foi quem concebeu uma fórmula para essa sequência. Mas, além de saber o que é Fibonacci, é importante saber que essa sequência é aplicada em análise de mercados financeiros, na ciência da computação e em teoria dos jogos. 
 
 Também aparece, por exemplo, em configurações biológicas, galhos de árvores, folhas em uma haste, no arranjo do cone da alcachofra, no abacaxi e no desenrolar da samambaia.
 
@@ -44,14 +44,14 @@ Também aparece, por exemplo, em configurações biológicas, galhos de árvores
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2594...
 
-Como se vê, a composição é formada por números que são o resultado da soma dos
+É possível observar que a composição é formada por números que são o resultado da soma dos
 dois anteriores:
 
 ![contagem](https://user-images.githubusercontent.com/129625591/229652427-790f7379-9e6b-4bd8-ac15-50e6ee4d61eb.png)
 
 # Tecnologias utilizadas
 
-Para realizar os cálculos e entregar ao usuário a contagem sequêncial, o grupo 44Sec optou por utilizar a liguem de alto nivel Python, versão 3.11. Para criação do código foram utilizadas funções como "inputs", "list", "for", "while", "try", "except" e print, dispensando a necessidade do uso de bibliotecas.
+Para realizar os cálculos e entregar ao usuário a contagem sequêncial, o grupo 44SEC optou por utilizar a liguagem Python, versão 3.11. Para a criação do código, foram utilizadas funções como "input", "list", "for", "while", "try", "except" e "print", dispensando a necessidade do uso de bibliotecas.
 
 # Link de vídeo explicativo
 
@@ -65,7 +65,7 @@ Rakel de Macedo Oliveira RM99435
 
 Pedro Henrique Lima Vieira RM99432
 
-Suellen Guedes Rufino RM: 97687
+Suellen Guedes Rufino RM97687
 
 # Licença
 
