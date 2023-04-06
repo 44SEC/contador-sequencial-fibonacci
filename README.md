@@ -52,7 +52,9 @@ dois anteriores:
 
 # Funcionalidades e Demonstração da Aplicação
 
-Para executar o programa incie primeiro o interpretador com o comando py ou python, no windows powershell ou no terminal de computador do seu sistema operacional.
+* [Explicando e demonstrando "Fibonacci.py"](https://youtu.be/WcaoXCMeOw4)
+
+Para executar o programa, inicie primeiro o interpretador com o comando py ou python3, no windows powershell ou no terminal de computador do seu sistema operacional.
 
 * Clone o repositório no diretório desejado
 
@@ -66,24 +68,21 @@ $ git clone https://github.com/44SEC/contador-sequencial-fibonacci.git
 $ python3 fibonacci.py
 ```
 
-O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casa que deseja contar. A seguinte mensagem deverá ser exibia: 
+O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casas que deseja exibir. A seguinte mensagem será exibida: 
 
 "Insira um número para gerar a sequência de Fibonnaci:"
 
-O número minimo aceito pelo script é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira um número menor, uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
+O número minimo aceito pelo programa é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira um número menor, uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
 
 A aplicação só aceita números inteiros, caso uma string seja inserida o programa exibirá uma mensagem de erro e retornará ao ponto inicial.
 
-Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha, o ultimo número indica a casa solicitada pelo usuário, mas o mesmo pode ver toda a contagem até lá. 
+Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha. A quantidade de números dentro da lista corresponde com o número informado pelo usuário. 
 
-AVISO 
--Para fins de segurança e preservação da capacidade de processamento de computadores convencionais limitamos a entrada de contagem em 5000 mil caracteres. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
+AVISO - Para fins de segurança e preservação da capacidade de processamento de computadores convencionais, limitamos a entrada de contagem em 5000 mil caracteres. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
 
 # Tecnologias utilizadas
 
 Para realizar os cálculos e entregar ao usuário a contagem sequêncial, o grupo 44SEC optou por utilizar a liguagem Python, versão 3.11. Para a criação do código, foram utilizadas funções como "input", "list", "for", "while", "try", "except" e "print", dispensando a necessidade do uso de bibliotecas.
-
-# Link de vídeo explicativo
 
 # Pessoas Desenvolvedoras do Projeto
 
@@ -99,7 +98,7 @@ Suellen Guedes Rufino
 
 # Licença
 
-Todos os direitos reservados 44Sec - Fortification for Security
+Todos os direitos reservados 44SEC - Fortification for Security
 
 # Conclusão
 
