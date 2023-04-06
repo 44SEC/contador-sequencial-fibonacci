@@ -1,4 +1,4 @@
-# Título e Imagem de capa
+# TÍTULO E IMAGEM DE CAPA
 <h1 align="center"> Contador sequencial de Fibonacci </h1>
 
 ![fibo](https://user-images.githubusercontent.com/129625591/229647386-f61c870b-63b6-4cf4-9279-860c332183c2.png)
@@ -14,24 +14,26 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
-* [A Sequência Fibonacci](#a-sequência-fibonacci)
+* [A Sequência de Fibonacci](#a-sequência-de-fibonacci)
 * [Forma de contagem](#forma-de-contagem)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Link de vídeo explicativo](#link-de-vídeo-explicativo)
+* [Link de vídeo explicativo](https://youtu.be/WcaoXCMeOw4)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
 # Descrição do Projeto
 
-O seguinte projeto tem como objetivo realizar a contagem de acordo com a sequencia de Fibonacci, entregando desta forma ao usuário o valor numérico sequecial até a casa solicitada pelo mesmo.
+O seguinte projeto tem como objetivo realizar a contagem de acordo com a sequencia de Fibonacci, a partir de um número dado pelo usuário, delimitando assim a quantidade de valores que serão apresentados na sequência.
+
 
 # Status do Projeto
 
 O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Cabrini, como primeiro checkoint da disciplina Coding For Security da turma 1TDCG da Faculdade de Adminsitração e Informatica Paulista. Aguardando aprovação do docente responsável.
 
-# A Sequência Fibonacci
+
+# A Sequência de Fibonacci
 
 A sequência de Fibonacci, ou sucessão de Fibonacci, é uma sequência matemática composta por números inteiros. Normalmente, começando por 0 e 1 e cada termo subsequente é formado pela soma dos dois anteriores.
 
@@ -54,7 +56,7 @@ dois anteriores:
 
 * [Explicando e demonstrando "Fibonacci.py"](https://youtu.be/WcaoXCMeOw4)
 
-Para executar o programa, inicie primeiro o interpretador com o comando py ou python3, no windows powershell ou no terminal de computador do seu sistema operacional.
+Para executar o programa, inicie primeiro o interpretador com o comando py ou python3, no windows powershell ou no terminal do seu sistema operacional.
 
 * Clone o repositório no diretório desejado
 
@@ -68,7 +70,7 @@ $ git clone https://github.com/44SEC/contador-sequencial-fibonacci.git
 $ python3 fibonacci.py
 ```
 
-O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira o número de casas que deseja exibir. A seguinte mensagem será exibida: 
+O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira a quantidade de valores que deseja gerar. A seguinte mensagem será exibida: 
 
 "Insira um número para gerar a sequência de Fibonnaci:"
 
@@ -78,7 +80,7 @@ A aplicação só aceita números inteiros, caso uma string seja inserida o prog
 
 Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha. A quantidade de números dentro da lista corresponde com o número informado pelo usuário. 
 
-AVISO - Para fins de segurança e preservação da capacidade de processamento de computadores convencionais, limitamos a entrada de contagem em 5000 mil caracteres. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
+AVISO - Para fins de segurança e preservação da capacidade de processamento de computadores convencionais, o máximo de valores gerados está limitado a 5000 valores. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
 
 # Tecnologias utilizadas
 
@@ -102,5 +104,5 @@ Todos os direitos reservados 44SEC - Fortification for Security
 
 # Conclusão
 
-A sequência de Fibonacci se mostra um efetivo exercício para a pratíca da programação, pois foge do óbvio e propõe aos alunos que busquem encontrar uma forma de tranferir a lógica da contagem para o programa criado no exercício. Isso faz com que os mesmos busquem ferramentas que podem ser utilizadas no código para conseguir automatizar esta contagem.  
+A sequência de Fibonacci se mostra um efetivo exercício para a pratíca da programação, porque foge da obviedade e propõe aos alunos que busquem encontrar uma forma de tranferir a lógica da contagem para o programa.
 
