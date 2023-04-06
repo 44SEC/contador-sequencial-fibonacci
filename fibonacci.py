@@ -40,8 +40,8 @@ except ValueError:
 
 # Primeiro número, segundo número e numero atual
 anterior = 0
-proximo = 1
-atual = 0
+atual = 1
+proximo = 0
 
 
 # Lista para adicionarmos os números da sequência gerada
@@ -55,10 +55,10 @@ for i in range(numero):
     lista_fibonacci.append(anterior)
     
     # Gerando nosso número atual 
-    atual = proximo
+    proximo = atual
     
     # transformando ele no próximo número da sequência de Fibonnaci
-    proximo = anterior
+    atual = anterior
     
     # O próximo número da sequência é o número atual mais o número anterior
     anterior = atual + proximo
